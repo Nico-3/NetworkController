@@ -1,0 +1,15 @@
+G:\Projekte\NetworkController\bin\Debug\net6.0\NetworkController.exe
+G:\Projekte\NetworkController\bin\Debug\net6.0\NetworkController.deps.json
+G:\Projekte\NetworkController\bin\Debug\net6.0\NetworkController.runtimeconfig.json
+G:\Projekte\NetworkController\bin\Debug\net6.0\NetworkController.dll
+G:\Projekte\NetworkController\bin\Debug\net6.0\ref\NetworkController.dll
+G:\Projekte\NetworkController\bin\Debug\net6.0\NetworkController.pdb
+G:\Projekte\NetworkController\obj\Debug\net6.0\NetworkController.csproj.AssemblyReference.cache
+G:\Projekte\NetworkController\obj\Debug\net6.0\NetworkController.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projekte\NetworkController\obj\Debug\net6.0\NetworkController.AssemblyInfoInputs.cache
+G:\Projekte\NetworkController\obj\Debug\net6.0\NetworkController.AssemblyInfo.cs
+G:\Projekte\NetworkController\obj\Debug\net6.0\NetworkController.csproj.CoreCompileInputs.cache
+G:\Projekte\NetworkController\obj\Debug\net6.0\NetworkController.dll
+G:\Projekte\NetworkController\obj\Debug\net6.0\ref\NetworkController.dll
+G:\Projekte\NetworkController\obj\Debug\net6.0\NetworkController.pdb
+G:\Projekte\NetworkController\obj\Debug\net6.0\NetworkController.genruntimeconfig.cache
