@@ -2,7 +2,7 @@
 
 ### Was ist NC?
 
-NC ist ein programm zur Kontrolle & Überprüfung der Stabilität der Internetleitung.
+NC ist ein Programm zur Kontrolle & Überprüfung der Stabilität der Internetleitung.
 
 ##
 
